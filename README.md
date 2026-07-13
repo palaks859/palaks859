@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=flat-square&logo=linkedin&logoColor=4A9DFF" /></a>
+<a href="https://www.linkedin.com/in/palak-soni-500524290/"><img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=flat-square&logo=linkedin&logoColor=4A9DFF" /></a>
 <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-1A1A2E?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1A1A2E?style=flat-square&logo=gmail&logoColor=D14836" /></a>
 <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1A1A2E?style=flat-square&logo=x&logoColor=white" /></a>
