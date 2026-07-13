@@ -1,6 +1,6 @@
 <div align="center">
 
-# YOUR_NAME
+# PALAK SONI
 
 ### YOUR_ROLE — YOUR_LOCATION
 
